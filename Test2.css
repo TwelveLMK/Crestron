@@ -1,0 +1,18 @@
+/*************** Screensaver section ****************/
+/* Room name */
+.screensaver__container__room-details__name {
+    text-transform: capitalize;
+     white-space: nowrap;
+     text-overflow: ellipsis;
+     overflow: hidden;
+     line-height: 1.5em;
+     font-size: 4vh;
+     width: 130vh;
+    }
+
+ 
+    /* Logo screensaver */
+    .screensaver__container__logo__img {
+    height: 25vh;
+    }
+    
