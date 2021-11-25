@@ -6,6 +6,7 @@
      text-overflow: ellipsis;
      overflow: hidden;
      line-height: 1.5em;
+     font-size: 10vh;
      width: 133.333333333vh;
     }
     /* Color for available label */
@@ -53,7 +54,7 @@
  
     /* Logo screensaver */
     .screensaver__container__logo__img {
-    height: 25vh;
+    height: 20vh;
     }
     /* Border color screensaver layout when reserved */
     .screensaver__container--reserved {
